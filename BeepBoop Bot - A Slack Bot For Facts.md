@@ -1,0 +1,2 @@
+
+BeepBoop Bot is my first slack bot and is designed to give people facts about rollercoasters. Currently, the facts are about Rollercoasters in general and UK Theme parks (Alton Towers, Thorpe Park, etc)
